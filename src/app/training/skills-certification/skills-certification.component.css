@@ -1,0 +1,18 @@
+.skills-certification-container {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    background-color: #b0b0b0;
+  }
+  
+  .skills-certification-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .skills-certification-content {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  

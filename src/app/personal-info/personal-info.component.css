@@ -1,0 +1,18 @@
+.personal-info-container {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    background-color: #e0e0e0;
+  }
+  
+  .personal-info-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .personal-info-content {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  

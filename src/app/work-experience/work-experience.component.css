@@ -1,0 +1,18 @@
+.work-experience-container {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    background-color: #a0a0a0;
+  }
+  
+  .work-experience-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .work-experience-content {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
